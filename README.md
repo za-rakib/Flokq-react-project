@@ -1,9 +1,9 @@
-# Getting Started with Create React App
+# Flokq React Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+#In this place I have used recat and bootstrap. Bootstrap has been used since time is short. Mui Diao could also be done
 In the project directory, you can run:
 
 ### `yarn start`
