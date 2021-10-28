@@ -3,9 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-#In this place I have used recat and bootstrap. Bootstrap has been used since time is short. Mui Diao could also be done
-In the project directory, you can run:
-
+In this place I have used recat and bootstrap. Bootstrap has been used since time is short.Bootstrap could be replaced by MUi.
 ### `yarn start`
 
 Runs the app in the development mode.\
