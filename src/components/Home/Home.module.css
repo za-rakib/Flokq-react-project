@@ -1,0 +1,25 @@
+.series{
+  margin-left: 50px;
+  height:200px;
+  width:130px;
+  background-color:#1e1e1e;
+}
+.series img {
+  position: relative;
+  height:200px;
+  width:300px;
+  margin-left: -85px;
+}
+.series h3{
+  position: absolute;
+  color: rgb(250, 250, 250);
+  text-decoration: none;
+
+  top: 80px;
+  left:20px;
+  font-family: 'Raleway', sans-serif;
+}
+.cardItem small{
+  margin-left: 50px;
+  font-family: 'Raleway', sans-serif;
+}

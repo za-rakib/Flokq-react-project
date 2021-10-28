@@ -1,0 +1,48 @@
+.navbar{
+  height:80px;
+  background-color:#008bff;
+}
+.logo{
+  margin-left: 100px;
+}
+.logo a{
+  text-decoration: none;
+  color:#fff;
+  font-family: 'Raleway', sans-serif;
+}
+.buttonLogin{
+margin-right:30px;
+background-color:#008bff;
+border: none;
+color:aliceblue;
+font-family: 'Raleway', sans-serif;
+}
+.buttonStart{
+border: none;
+color:aliceblue;
+background-color: #414141;
+padding: 5px;
+font-family: 'Raleway', sans-serif;
+}
+@media only screen and (max-width: 600px) {
+
+  .buttonLogin{
+    margin-right:260px;
+    margin-top: 10px;
+    background-color:#008bff;
+    border: none;
+    color:aliceblue;
+    font-family: 'Raleway', sans-serif;
+    }
+    .buttonStart{
+      border: none;
+      color:aliceblue;
+      background-color: #008bff;
+      padding: 5px;
+      font-family: 'Raleway', sans-serif;
+      }
+}
+@media only screen and (min-width: 600px) {
+
+}
+@media only screen and (min-width: 768px) {}

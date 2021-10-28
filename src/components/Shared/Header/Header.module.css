@@ -1,0 +1,9 @@
+.title{
+  height:70px;
+  background-color:#414141;
+}
+.title h3{
+  color: white;
+  margin-left: 110px;
+  font-family: 'Raleway', sans-serif;
+}

@@ -1,0 +1,21 @@
+.footer{
+  background-color: #1e1e1e;
+  color: white;
+}
+.text p span{
+margin-left:10px;
+margin-right:10px;
+}
+
+.socialIcon img{
+  height:25px;
+  width:25px;
+  margin-left: 20px;
+}
+.storeIcon{
+  margin-left:700px;
+}
+.storeIcon img{
+  width: 60px;
+  margin-left:30px;
+}
